@@ -4,7 +4,7 @@
 #' @param b Factor
 #'
 #' @return
-#' @export
+#' @export fbind
 #'
 #' @examples
 fbind <- function(a, b) {
